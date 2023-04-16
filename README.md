@@ -10,7 +10,7 @@
 
 <h2>Purpose</h2>
 
-<p>The purpose of this project was to determine if home price could be determined by square footage or zipcode. During the course of this project we learned valuable data science techniques that better our understanding of Python, statistics, data analysis, and machine learning.</p><br>
+<p>The purpose of this project was to investigate if home price could be determined by square footage or zipcode. During the course of this project we learned valuable data science techniques that better our understanding of Python, statistics, data analysis, and machine learning.</p><br>
 
 
 <h2>Requirements</h2>
